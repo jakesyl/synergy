@@ -4,3 +4,4 @@ before_script:
 install: 
   - ./hm.sh conf -g1
   -  ./hm.sh build
+
